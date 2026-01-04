@@ -1,0 +1,16 @@
+#timeSigPanel {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #1e1e1e;
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+  font-family: Arial, sans-serif;
+  z-index: 9999;
+}
+
+#timeSigPanel input {
+  width: 50px;
+  margin: 4px;
+}
